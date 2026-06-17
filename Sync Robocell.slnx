@@ -1,0 +1,19 @@
+﻿<Solution>
+  <Project Path="realvirtual.base.csproj" />
+  <Project Path="NaughtyAttributes.Editor.csproj" />
+  <Project Path="realvirtual.interfaces.igusrebel.csproj" />
+  <Project Path="NaughtyAttributes.Core.csproj" />
+  <Project Path="realvirtual.editor.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="realvirtual.interfaces.s7tcpip.csproj" />
+  <Project Path="IngameDebugConsole.Runtime.csproj" />
+  <Project Path="realvirtual.rendererfeatures.csproj" />
+  <Project Path="realvirtual.tests.csproj" />
+  <Project Path="realvirtual.spacenavigator.csproj" />
+  <Project Path="realvirtual.runtimeui.editor.csproj" />
+  <Project Path="realvirtual.materialicons.editor.csproj" />
+  <Project Path="realvirtual.runtimeui.scripts.editor.csproj" />
+  <Project Path="IngameDebugConsole.Editor.csproj" />
+  <Project Path="realvirtual.spacenavigator.editor.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+</Solution>
